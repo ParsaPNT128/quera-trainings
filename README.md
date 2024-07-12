@@ -1,4 +1,4 @@
-# quera-trainings
+# Trainings Links
 A repository that I upload my trainings in from time-to-time.
 
 Quera Training Links:
