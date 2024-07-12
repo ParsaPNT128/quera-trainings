@@ -32,5 +32,5 @@ while run:
  'aabbaa', 'aabbab', 'aabbba', 'aabbbb', 'abaaaa', 'abaaab', 'abaaba', 'abaabb', 'ababaa', 'ababab', 'ababba', 'ababbb', 'abbaaa',
  'abbaab', 'abbaba', 'abbabb', 'abbbaa', 'abbbab', 'abbbba', 'abbbbb', 'baaaaa', 'baaaab', 'baaaba', 'baaabb', 'baabaa', 'baabab']'''
 
-n = int(input('Enter an index: '))
+n = int(input())
 print(find_character(n))

@@ -1,5 +1,5 @@
-h = int(input("Number of watermelons: "))
-k = int(input("Number of melons: "))
+h = int(input())
+k = int(input())
 
 life = (h*2) + k
 
@@ -13,4 +13,4 @@ if 0<=h<=100 and 0<=k<=100:
         print("NO")
 
 else:
-    print("NO")
+    print("Index should be between 1 and 100.")
