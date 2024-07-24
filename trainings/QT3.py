@@ -4,7 +4,6 @@ def time_calc(k, n, h):
     time = n
     h = [0] + h + [0]
     for i in range(1, n+2):
-        print(i)
         b1 = int(h[i])
         b2 = int(h[i-1])
         dis = abs(b1 - b2)
