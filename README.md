@@ -6,4 +6,7 @@ Quera Training Links:
 T1 = https://quera.org/problemset/237883?tab=description <br />
 T2 = https://quera.org/problemset/235095?tab=description <br />
 T3 = https://quera.org/problemset/236459?tab=description <br />
-T4 = https://quera.org/problemset/235328?tab=description
+T4 = https://quera.org/problemset/235328?tab=description <br />
+T5 = https://quera.org/problemset/234251?tab=description <br />
+T6 = https://quera.org/problemset/234249?tab=description <br />
+T7 = https://quera.org/problemset/232025?tab=description
