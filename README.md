@@ -10,4 +10,6 @@ T4 = https://quera.org/problemset/235328?tab=description <br />
 T5 = https://quera.org/problemset/234251?tab=description <br />
 T6 = https://quera.org/problemset/234249?tab=description <br />
 T7 = https://quera.org/problemset/232025?tab=description <br />
-T8 = https://quera.org/problemset/10166?tab=description
+T8 = https://quera.org/problemset/10166?tab=description <br />
+T9 = https://quera.org/problemset/31026?tab=description <br />
+T10 = https://quera.org/problemset/244102?tab=description
