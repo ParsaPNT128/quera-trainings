@@ -14,4 +14,6 @@ T8 = https://quera.org/problemset/10166?tab=description <br />
 T9 = https://quera.org/problemset/31026?tab=description <br />
 T10 = https://quera.org/problemset/244102?tab=description <br />
 T11 = https://quera.org/problemset/245888?tab=description <br />
-T12 = https://quera.org/problemset/244101?tab=description
+T12 = https://quera.org/problemset/244101?tab=description <br />
+T13 = https://quera.org/problemset/244098?tab=description <br />
+T14 = https://quera.org/problemset/3410?tab=description
