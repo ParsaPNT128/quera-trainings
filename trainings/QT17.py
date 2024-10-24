@@ -1,37 +1,20 @@
-def game(key, guess):
-    global game_over
-    output = ""
-    repeated = []
+from math import ceil
 
-    if game_over:
-        return "Game Over"
-    elif len(key) != len(guess):
-        return "Invalid Length"
-    else:
-        for i in range(len(guess)):
-            if guess[i] == key[i]:
-                output += "G"
-                repeated.append(guess[i])
-            elif guess[i] in key:
-                if not guess[i] in repeated:
-                    output += "Y"
-                    repeated.append(guess[i])
-                else:
-                    output += "R"
-            else:
-                output += "R"
+def find_squares(n):
+    squares = 0
+    for i in range(1, ceil(n / 2) + 1):
+        x = i * i
+        for l in range(1, ceil(n / 2) + 1):
+            y = l * l
+            if abs(x - y) == n:
+                squares += 1
 
-    if not "Y" in output and not "R" in output:
-        game_over = True
+    return int(squares / 2)
 
-    return output
-        
-game_over = False
 outputs = []
-key = input()
-ng = int(input())
-for i in range(ng):
-    outputs.append(game(key, input()))
+t = int(input())
+for i in range(t):
+    outputs.append(find_squares(int(input())))
 
 for i in outputs:
     print(i)
