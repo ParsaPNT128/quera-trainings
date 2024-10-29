@@ -20,4 +20,6 @@ T14 = https://quera.org/problemset/3410?tab=description <br />
 T15 = https://quera.org/problemset/252195?tab=description <br />
 T16 = https://quera.org/problemset/66865?tab=description <br />
 T17 = https://quera.org/problemset/252329?tab=description <br />
-T18 = https://quera.org/problemset/253399?tab=description
+T18 = https://quera.org/problemset/253399?tab=description <br />
+T19 = https://quera.org/problemset/252330?tab=description <br />
+T20 = 
