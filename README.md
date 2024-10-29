@@ -22,4 +22,4 @@ T16 = https://quera.org/problemset/66865?tab=description <br />
 T17 = https://quera.org/problemset/252329?tab=description <br />
 T18 = https://quera.org/problemset/253399?tab=description <br />
 T19 = https://quera.org/problemset/252330?tab=description <br />
-T20 = 
+T20 = https://quera.org/problemset/35254?tab=description
